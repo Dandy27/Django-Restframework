@@ -1,2 +1,2 @@
-# Django-Restframework
+# Django
   * Api - controle de gastos 
